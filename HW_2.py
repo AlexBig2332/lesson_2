@@ -29,7 +29,7 @@
 # sum = 0
 #
 # for i in range(1,101):
-#     sum+=i
+#     sum += i
 # print(sum)
 
 
@@ -40,7 +40,7 @@
 '''
 # pr = 1
 # for i in range(1,11):
-#     pr*=i
+#     pr *= i
 # print(pr)
 
 
@@ -60,7 +60,7 @@
 # for i in t:
 #   int(i)
 #   int(t)
-#   sum+=i
+#   sum += i
 # print(sum)
 
 
@@ -76,7 +76,7 @@
 # for i in t:
 #   int(i)
 #   int(t)
-#   pr*=i
+#   pr *= i
 # print(pr)
 
 
@@ -111,7 +111,7 @@
 '''
 # integer_number = int(input('Введите число '))
 # n=0
-# while integer_number>0:
+# while integer_number > 0:
 #     if integer_number%10 == 5:
 #         n += 1
 #     integer_number = integer_number//10
