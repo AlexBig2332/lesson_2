@@ -48,17 +48,9 @@
 Задача 5
 Вывести цифры числа на каждой строчке.
 '''
-# t = input('Введите число: ')
-# for i in t:
+# n = input('Введите число: ')
+# for i in n:
 #   print(i)
-
-# integer_number = 2129
-#
-# #print(integer_number%10,integer_number//10)
-#
-# while integer_number>0:
-#     print(integer_number%10)
-#     integer_number = integer_number//10
 
 '''
 Задача 6
@@ -106,12 +98,12 @@
 Найти максимальную цифру в числе
 '''
 # integer_number = int(input('Введите число '))
-# max=0
-# while integer_number>0:
-#     if integer_number%10 >max:
-#         max=integer_number%10
-#     integer_number = integer_number//10
-# print(max)
+# m = 0
+# while integer_number > 0:
+#     if integer_number%10 > m:
+#         m = integer_number %10
+#     integer_number = integer_number //10
+# print(m)
 
 '''
 Задача 10
